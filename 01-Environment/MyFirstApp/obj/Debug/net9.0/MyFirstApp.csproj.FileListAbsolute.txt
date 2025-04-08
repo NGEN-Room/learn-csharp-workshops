@@ -1,0 +1,15 @@
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/bin/Debug/net9.0/MyFirstApp
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/bin/Debug/net9.0/MyFirstApp.deps.json
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/bin/Debug/net9.0/MyFirstApp.runtimeconfig.json
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/bin/Debug/net9.0/MyFirstApp.dll
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/bin/Debug/net9.0/MyFirstApp.pdb
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/MyFirstApp.AssemblyInfo.cs
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/MyFirstApp.sourcelink.json
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/MyFirstApp.dll
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/refint/MyFirstApp.dll
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/MyFirstApp.pdb
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/MyFirstApp.genruntimeconfig.cache
+/Users/piha/Documents/GitHub/learn-csharp-workshops/01-Environment/MyFirstApp/obj/Debug/net9.0/ref/MyFirstApp.dll
