@@ -3,39 +3,81 @@
 Welcome to the **Learn C# Workshop Series** by NGEN Room — a hands-on journey into C# programming, designed for students and beginners.
 
 This repo is structured for progressive learning through:
-- 💡 Lessons
-- 📝 Quizzes
-- 💻 Projects
+- 💡 Lessons  
+- 📝 Quizzes  
+- 💻 Projects  
 
 ---
 
 ## 🔧 How to Use
 
-1. **Clone the repository**
+### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/NGEN-Room/learn-csharp-workshops.git
 cd learn-csharp-workshops
 ```
 
-2. **Pick a workshop folder**  
+---
+
+### 2. **Create Your Own Branch**
+As this repo is a work in progress, all students **must create their own branch** and work from that:
+
+```bash
+git checkout -b your-name
+```
+
+For example:
+```bash
+git checkout -b piha
+```
+
+- All your work will be saved under your branch.
+- Every time you're ready to back up or submit your work, run:
+
+```bash
+git push -u origin your-name
+```
+
+> (Replace `your-name` with your actual branch name)
+
+After that first push, you only need to run this after saving and committing your work:
+
+```bash
+git add .
+git commit -m "your message here"
+git push
+```
+
+---
+
+### 3. **Pick a Workshop Folder**  
 Each folder (e.g., `01-Environment`, `02-Hello-World`) contains:
 - A `README.md` with your lesson
 - A `quiz.md` with reflection questions
 - A `/projects/` folder (if included) with coding challenges
 
-3. **Run your code**
-Make sure you have the .NET SDK installed: https://dotnet.microsoft.com/en-us/download
+---
 
-Use the terminal to compile and run C# console apps:
+### 4. **Run Your Code**
+Make sure you have the .NET SDK installed:  
+👉 https://dotnet.microsoft.com/en-us/download
+
+Then run your app:
 ```bash
 dotnet build
 dotnet run
 ```
 
-4. **Update for new workshops**
-As more workshops are released, pull the latest content:
+---
+
+### 5. **Stay Up to Date**
+New workshops are added regularly. To keep your branch up to date:
+
 ```bash
+git checkout main
 git pull origin main
+git checkout your-name
+git merge main
 ```
 
 ---
@@ -77,8 +119,8 @@ git checkout -b feat/06-loops
 ```
 
 2. Add content to the relevant workshop folder:
-- `README.md` = lesson content
-- `quiz.md` = 3–5 review questions
+- `README.md` = lesson content  
+- `quiz.md` = 3–5 review questions  
 - `/projects/Project-1` = starter code + `README.md` instructions
 
 3. Push and open a pull request to `main`.
