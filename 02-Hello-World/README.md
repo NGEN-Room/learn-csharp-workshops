@@ -14,6 +14,9 @@ Now that your environment is ready, it’s time to write your first C# program f
 
 ## ✍️ Step-by-Step: Build Your First App
 
+### 0. Online learning session
+please find the link to the free code camp equivalent, this is here as a guide, it isnt requried however if you are lost and unsure this is where you should begin. [Link](https://learn.microsoft.com/en-nz/training/modules/csharp-write-first/)
+
 ### 1. Create the Project
 As a rule of thumb keep all moudleized project within the modules i.e.: 02-Hello-World/*Project name*. you are also more than welcome to build the project with in the projects folder, to do that change your directory to the folder you wish to save your projects
 From the terminal:
