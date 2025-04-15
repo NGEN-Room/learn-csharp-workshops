@@ -1,0 +1,15 @@
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.exe
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.deps.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.runtimeconfig.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.sourcelink.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\refint\HelloWorldApp.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\HelloWorldApp\obj\Debug\net9.0\ref\HelloWorldApp.dll
