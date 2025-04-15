@@ -1,5 +1,15 @@
-# Project 1 - 07 Conditionals
+# Project – Grade Classifier
 
-## Instructions
+## 🧠 Goal:
+Ask the user for a score and print their grade using `if`, `else if`, and `else`.
 
-- [ ] Describe the project task here.
+## 🔧 Requirements:
+- A: 90–100
+- B: 80–89
+- C: 70–79
+- D: 60–69
+- F: below 60
+
+## ✅ Bonus Challenge:
+- Validate the input to make sure it's between 0 and 100
+- Loop the program to allow checking multiple scores
