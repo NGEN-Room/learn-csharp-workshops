@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\SimpleCalculator\\UsernameGenerator\\UsernameGenerator.csproj": {}
+    "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\UsernameGenerator\\UsernameGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\SimpleCalculator\\UsernameGenerator\\UsernameGenerator.csproj": {
+    "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\UsernameGenerator\\UsernameGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\SimpleCalculator\\UsernameGenerator\\UsernameGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\UsernameGenerator\\UsernameGenerator.csproj",
         "projectName": "UsernameGenerator",
-        "projectPath": "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\SimpleCalculator\\UsernameGenerator\\UsernameGenerator.csproj",
+        "projectPath": "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\UsernameGenerator\\UsernameGenerator.csproj",
         "packagesPath": "C:\\Users\\JamesBarry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\SimpleCalculator\\UsernameGenerator\\obj\\",
+        "outputPath": "C:\\Users\\JamesBarry\\OneDrive - He Puna Marama Charitable Trust\\Documents\\GitHub\\learn-csharp-workshops\\UsernameGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

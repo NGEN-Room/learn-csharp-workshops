@@ -1,0 +1,15 @@
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\AccessChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\AccessChecker.AssemblyInfoInputs.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\AccessChecker.AssemblyInfo.cs
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\AccessChecker.csproj.CoreCompileInputs.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\AccessChecker.sourcelink.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\bin\Debug\net9.0\AccessChecker.exe
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\bin\Debug\net9.0\AccessChecker.deps.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\bin\Debug\net9.0\AccessChecker.runtimeconfig.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\bin\Debug\net9.0\AccessChecker.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\bin\Debug\net9.0\AccessChecker.pdb
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\AccessChecker.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\refint\AccessChecker.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\AccessChecker.pdb
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\AccessChecker.genruntimeconfig.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\AccessChecker\obj\Debug\net9.0\ref\AccessChecker.dll

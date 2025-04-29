@@ -1,0 +1,15 @@
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\UsernameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\UsernameGenerator.AssemblyInfoInputs.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\UsernameGenerator.AssemblyInfo.cs
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\UsernameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\UsernameGenerator.sourcelink.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\bin\Debug\net9.0\UsernameGenerator.exe
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\bin\Debug\net9.0\UsernameGenerator.deps.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\bin\Debug\net9.0\UsernameGenerator.runtimeconfig.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\bin\Debug\net9.0\UsernameGenerator.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\bin\Debug\net9.0\UsernameGenerator.pdb
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\UsernameGenerator.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\refint\UsernameGenerator.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\UsernameGenerator.pdb
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\UsernameGenerator.genruntimeconfig.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\UsernameGenerator\obj\Debug\net9.0\ref\UsernameGenerator.dll
