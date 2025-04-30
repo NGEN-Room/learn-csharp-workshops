@@ -1,0 +1,15 @@
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\bin\Debug\net9.0\testProject.exe
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\bin\Debug\net9.0\testProject.deps.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\bin\Debug\net9.0\testProject.runtimeconfig.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\bin\Debug\net9.0\testProject.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\bin\Debug\net9.0\testProject.pdb
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\testProject.AssemblyInfoInputs.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\testProject.AssemblyInfo.cs
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\testProject.csproj.CoreCompileInputs.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\testProject.sourcelink.json
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\testProject.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\refint\testProject.dll
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\testProject.pdb
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\testProject.genruntimeconfig.cache
+C:\Users\JamesBarry\OneDrive - He Puna Marama Charitable Trust\Documents\GitHub\learn-csharp-workshops\07-Conditionals\projects\Project-1\testProject\obj\Debug\net9.0\ref\testProject.dll
